@@ -1,0 +1,4 @@
+env:
+  urls:
+    TA: http://localhost:8080
+    BankApp: http://localhost:8085
